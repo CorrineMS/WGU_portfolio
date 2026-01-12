@@ -21,4 +21,32 @@ WGU outlines the following competencies as part of this course:
 - **Performs Inferential Statistical Analysis**  
   Conducts hypothesis testing and confidence interval analysis to draw conclusions from data.
 
-- **Commun**
+- **Communicates Statistical Results**  
+  Explains statistical outcomes and limitations in a clear, professional manner.
+
+---
+
+## Practical Assessments
+
+### Statistical Analysis and Hypothesis Testing
+Applied descriptive and inferential statistical techniques to analyze datasets, evaluate assumptions, perform hypothesis testing, and interpret results relevant to organizational or business questions.
+
+---
+
+## Tools and Techniques
+
+- Descriptive statistics  
+- Probability concepts  
+- Inferential statistics  
+- Hypothesis testing  
+- Statistical interpretation and reporting  
+
+---
+
+## Key Skills Demonstrated
+
+- Statistical reasoning and analysis  
+- Data interpretation  
+- Hypothesis testing  
+- Analytical communication  
+- Evidence-based decision support  
