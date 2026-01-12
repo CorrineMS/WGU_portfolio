@@ -99,4 +99,8 @@ A foundation for continued growth, presentations, or expanded projects.
 All work contained in this repository represents original student effort completed in accordance with **WGU academic integrity guidelines**.  
 Artifacts are shared for educational and professional purposes only.
 
+## Connect
+## Professional Profiles
+
+- LinkedIn: https://www.linkedin.com/in/corrine-sadler-17b703318
 
