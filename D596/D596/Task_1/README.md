@@ -3,6 +3,7 @@
 D596 is a course that introduces learners to the data analytics life cycle and career pathways within the field. It is delivered through practical assessments, requiring students to apply theoretical knowledge to real-world scenarios and reflect on their personal and professional development in data analytics.
 
 Course Objectives
+
 WGU outlines the following competencies as a part of this class:
 
 Applies the Data Analytics Life Cycle: The learner applies the data analytics life cycle to real-world business scenarios.
@@ -13,6 +14,7 @@ Course Materials
 This course requires the submission of a career plan and discussions related to data analytics roles and tools. It also involves reflections based on the CliftonStrengths assessment results.
 
 Practical Assessment(s) Overview & Files
+
 Task 1: The Data Analytics Life Cycle
 
 Description: This task requires describing the seven phases of the data analytics life cycle, adding personal reflections on expertise for each phase, and proposing ways to gain expertise with examples. It also involves explaining how organizational goals and missions help identify business requirements. Additionally, learners select a data analytics tool or technique, describe its use in one phase, include three risks, and detail an organizational or technical problem it solves. The task concludes with describing the decision-making process for tool selection, justifying the organizational/technical need, summarizing results, and evaluating three potential ethical problems.
