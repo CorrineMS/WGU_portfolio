@@ -4,7 +4,7 @@ D596 course summary
 ## D596: The Data Analytics Journey
 
 **Course Status:** Completed  
-**Course Dates:** August 4, 2025 – August 27, 2025  
+**Course Dates:** August 4, 2025 – September 27, 2025  
 
 D596 introduces the data analytics life cycle and explores career pathways within the analytics field. The course emphasizes applying analytics concepts to real-world business scenarios while developing foundational skills in analytics planning, ethical considerations, and professional self-assessment.
 
