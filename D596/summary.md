@@ -1,4 +1,4 @@
-Add D596 course summary
+D596 course summary
 # Course Summary
 
 ## D596: The Data Analytics Journey
