@@ -28,7 +28,7 @@ Each row in the table below links to course-level summaries and selected deliver
 |--------------|----------------------|---------------|-------|---------------------------|----------------|
 | [D596: The Data Analytics Journey](./D596/) | Analytics lifecycle & planning | — | Foundational analytics concepts | 8/4/2025 – 9/27/2025 | Completed |
 | [D597: Data Management](./D597/) | Relational & non-relational databases | [Panopto Videos](./D597/) | SQL & MongoDB demonstrations | 9/27/2025 – 1/6/2026 | Completed |
-| [D598: Analytics Programming](./D598/) | Python-based data analysis | — | pandas & NumPy | In Progress (Started 12/18/2025) | In Progress |
+| [D598: Analytics Programming](./D598/) | Python-based data analysis | — | pandas & NumPy | 12/18/2025 - 1/14/2025 | Completed |
 | [D599: Data Preparation & Exploration](./D599/) | Data cleaning & EDA | — | Profiling, statistics, wrangling | TBD | TBD |
 | [D600: Statistical Data Mining](./D600/) | Regression & PCA modeling | — | Linear, logistic regression | TBD | TBD |
 | [D601: Data Storytelling for Varied Audiences](./D601/) | Dashboards & communication | Panopto | Tableau storytelling | TBD | TBD |
